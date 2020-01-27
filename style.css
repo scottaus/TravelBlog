@@ -1,0 +1,11 @@
+.img-thumbnail {
+	height: 300px;
+	width: 400px;
+	background-color: black;
+}
+
+.jumbotron {
+	background-image: url("https://i.imgur.com/ppXDfke.png");
+	background-size: contain;
+}
+
